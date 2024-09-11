@@ -1,0 +1,14 @@
+{
+  "name": "stackableinput",
+  "version": "1.0.0",
+  "displayName": "Stackable Input",
+  "description": "",
+  "unity": "2019.1",
+  "dependencies": {
+    "com.unity.inputsystem": "1.8.2"
+  },
+  "author": {
+    "name": "Daniel Loughmiller",
+    "url": "https://github.com/DanLGameDev/"
+  }
+}
